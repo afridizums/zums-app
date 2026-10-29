@@ -7,7 +7,7 @@
 </head>
 <body>
     This is Home page.
-    
+    hi
     <a href="/welcome"> Welcome Page</a>
 </body>
 </html>
